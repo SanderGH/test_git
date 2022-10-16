@@ -13,5 +13,9 @@ int main()
 
 	int height = 176;
 	cout << "height - " << height << endl;
+
+	int weight = 88;
+	cout << "weight - " << weight << endl;
+
 	return 0;
 }
