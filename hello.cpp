@@ -11,10 +11,10 @@ int main()
 	int age = 45;
 	cout << "age - " << age << endl;
 
-	int height = 176;
+	int height = 177;
 	cout << "height - " << height << endl;
 
-	int weight = 88;
+	int weight = 87;
 	cout << "weight - " << weight << endl;
 
 	return 0;
